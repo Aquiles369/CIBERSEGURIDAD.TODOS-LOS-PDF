@@ -1,0 +1,48 @@
+			Resumen Personal TRADUCIDO AL ESPAÑOL OSSTMM VERSION 3
+
+
+Importancia que yo considero:
+
+
+pag 24 frase El hecho de que no puedas controlarlo directamente no 
+significa que no pueda controlarse. Controla el entorno y 
+controlarás todo lo que hay en él.
+
+pag 29 defien todo lo anterior en un esqueme
+
+Estos 7 prueba de seguridad adecuadamente definida 33
+
+pag 37 tipos auditorias 
+
+pag 39 . Proceso de prueba
+
+pag 40 Informe
+
+pag 46 y 47  48 Manejo de errores 
+
+pag 63  Conociendo al Rav
+
+pag 69 Calculadora Rav
+
+pag 72 a 75 Control S 
+
+pag 76 a 78 Limitaciones
+
+pag 79 La fórmula de seguridad operativ
+
+de la pag 80 a las 160 habal de las diferentees metodolgia que se aplican a la hora de hacer una auditoria
+pag 165 
+Las 3 reglas de las herramientas de seguridad de datos 
+son: 1. las herramientas no saben cuándo mienten, 2. 
+las herramientas son tan inteligentes como sus 
+diseñadores y 3. las herramientas solo pueden funcionar 
+correctamente dentro de los límites del entorno para el 
+que fueron creadas.
+
+luego se pone un poco mas interesante red 
+
+de la pag 180 a 200 se pone un remsumen muy bueno de la difentes fases de la auditoria en que parte se aplica.
+
+
+
+reflexión: Esta bueno te hace ver las metodologia de una manera diferente lo que me llamo mas la atencion son los ejemplos , y metaforas ,Frases que te hacen entender de un punto de vista diferente , en mi caso particular es pura TEORIA para mi gusto , lo recomiendo y te lo dejo a tu desposicion el pdf , Un saludo enorme.
