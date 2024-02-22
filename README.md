@@ -20,4 +20,4 @@ Son varios pdf relacionado con las Auditoria Redes , SiStemas , Bunas praticas: 
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
 
- CIBERSEGURIDAD.TODOS-LOS-PDF
+ 
