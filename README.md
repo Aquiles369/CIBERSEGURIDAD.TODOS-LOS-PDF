@@ -6,6 +6,7 @@
 <br>
 
 
+
 - :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
 Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas , Buenas praticas ,  OWASP todas las versiones traducidas al español: Entre otros .<br>
 +["CIBERSEGURIDAD TODOS LOS PDF"](README.md)<br>
@@ -13,7 +14,18 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[Uniendo al gobierno](Uniendo_al_Gobierno)<br>
 +[Introduccion_a_la_Ciberseguridad](Introduccion_a_la_ciberseguridad)<br>
 +[Tacticas_de_Malware](Tacticas_de_Malware)<br>
-+[Seguridad_por_niveles](seguridad_por_niveles)
++[Seguridad_por_niveles](seguridad_por_niveles)<br>
++[Ser_Digital](Ser_Digital)<br>
++[Seguridad_informática_2](Seguridad_informática_2)<br>
++[Seguridad_informática_pag_14__118](Seguridad_informática_pag_14__118)<br>
++[Redes_diseño_actualización_y_reparación_Pag_28__123](Redes_diseño_actualización_y_reparación_Pag_28__123)<br>
++[Redes_de_computadoras](Redes_de_computadoras)<br>
++[Conceptos_de_redes_de_computadoras_Pag_1_30](Conceptos_de_redes_de_computadoras_Pag_1_30)<br>
++[Evolucion_del_inerternet](Evolucion_del_inert6ernet)<br>
+
+
+
+
 
 
 
