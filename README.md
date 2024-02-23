@@ -8,7 +8,7 @@
 
 
 - :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
-Son varios pdf relacionado con las Auditoria Redes , SiStemas , Bunas praticas: Entre otros .<br>
+Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas , Buenas praticas ,  OWASP todas las versiones traducidas al español, : Entre otros .<br>
 <br>+["CIBERSEGURIDAD TODOS LOS PDF"](README.md)<br>
 +[Saludos al Resumen_personal_de_OSSTMM_V3_ES](OSSTMM_V3_es)
 
