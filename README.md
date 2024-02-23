@@ -22,6 +22,11 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[Redes_de_computadoras](Redes_de_computadoras)<br>
 +[Conceptos_de_redes_de_computadoras_Pag_1_30](Conceptos_de_redes_de_computadoras_Pag_1_30)<br>
 +[Evolucion_del_inerternet](Evolucion_del_inert6ernet)<br>
++[Redes_de_datos y Protocolos](Redes_de_datos)<br>
++[El modelo OSI y sus protocolos](Protocolos_del_modelo_OSI)<br>
++[Conectividad_de_Redes poca paginas](Conectividad_de_redes)<br>
++[La_Seguridad_en_Redes_de_Comunicacion](La_Seguridad_en_Redes_de_Comunicacion)<br>
++[Hacia_una_reflexión_histórica_de_las_TIC](Hacia_una_reflexión_histórica_de_las_TIC)<br>
 
 
 
