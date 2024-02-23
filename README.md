@@ -48,10 +48,23 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[Auditoria_informática_un_enfoque_práctico_2](Auditoria_informática_un_enfoque_práctico_2)<br>
 +[Criptografia_seguridad_en_computadoras](Criptografia_seguridad_en_computadoras)<br>
 +[Rol_Del_auditor_principios_eticos](Rol_Del_auditor_principios_eticos)<br>
-+[]()<br>
-+[]()<br>
-+[]()<br>
-+[]()<br>
++[OWASP_v4_TODO_traducido_al_ESPAÑOL](OWASP_v4_TODO_traducido_al_ESPAÑOL)<br>
++[IMAGEN_OWASP_TOP10_2003_A_2021](IMAGEN_OWAS_TOP10_2003_A_2021)<br>
++[Escaneo_Metodologia](Escaneo_Metodologia)<br>
++[Owasp_top_10_varios_años](Owasp_top_10_varios_años)<br>
++[OSSTMM_es_2_1](OSSTMM_es_2_1)<br>
++[Guía_de_pruebas_de_OWASP_ver_3_0](Guía_de_pruebas_de_OWASP_ver_3_0)<br>
++[2020_Introduction_to_the_OWASP_Top_Ten](2020_Introduction_to_the_OWASP_Top_Ten)<br>
++[OWASP_API_2021_TOP_10](OWASP_API_2021_TOP_10)<br>
++[OWASP_API_2023_TOP_10](OWASP_API_2023_TOP_10)<br>
++[OWASP_Testing_Guide_v4](OWASP_Testing_Guide_v4)<br>
++[Ponencia_tipos_de_ataques_y_de_intrusos_en_las_redes_informaticas](Ponencia_tipos_de_ataques_y_de_intrusos_en_las_redes_informaticas)<br>
++[paginas_praticar_web](paginas_praticar_web)<br>
++[Tecnologia_de_la_comunicacion](Tecnologia_de_la_comunicacion)<br>
++[Redes_completo parte 1](Redes_completo)<br>
++[Redes_completo_2](Redes_completo_2)<br>
++[Redes_completo_3](Redes_completo_3)<br>
+
 
 
 
