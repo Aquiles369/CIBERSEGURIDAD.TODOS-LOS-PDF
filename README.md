@@ -6,7 +6,6 @@
 <br>
 
 
-
 - :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
 Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas , Buenas praticas ,  OWASP todas las versiones traducidas al español: Entre otros .<br>
 +["CIBERSEGURIDAD TODOS LOS PDF"](README.md)<br>
@@ -27,6 +26,33 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[Conectividad_de_Redes poca paginas](Conectividad_de_redes)<br>
 +[La_Seguridad_en_Redes_de_Comunicacion](La_Seguridad_en_Redes_de_Comunicacion)<br>
 +[Hacia_una_reflexión_histórica_de_las_TIC](Hacia_una_reflexión_histórica_de_las_TIC)<br>
++[Haking_Cero](Haking_Cero)<br>
++[Gestión_de_incidentes_de_seguridad_informática_Parte:1](Gestión_de_incidentes_de_seguridad_informática_1)<br>
++[Gestión_de_incidentes_de_seguridad_informática_Parte_2](Gestión_de_incidentes_de_seguridad_informática_2)<br>
++[Evolucion de como fue el inicio de las _Web ](Evolucion_Web)<br>
++[Tecnologías_de_la_Wep basico](Tecnologías_de_la_Wep)<br>
++[documento_ seguridad redes_sociales_baja](documento_seguridad_redes_sociales_baja)<br>
++[Conceptos_de_redes_de_computadoras_Pag_1 al 30](Conceptos_de_redes_de_computadoras_Pag_1_30)<br>
++[concepto_de_ciberseguridad_basicos](concepto_de_ciberseguridad_basicos)<br>
++[Seguridad_fisica](Seguridad_fisica)<br>
++[COBIT_2019_Introducion_y__Methodologia](COBIT_2019_Introducion_y__Methodologia)<br>
++[Ciberseguridad_Ciberguerra_Ciberderechos](Ciberseguridad_Ciberguerra_Ciberderechos)<br>
++[Ciberespacio_y_comunicacion](Ciberespacio_y_comunicacion)<br>
++[Ciberdelicuente_y_Tegnologia](Ciberdelicuente_y_Tegnologia)<br>
++[Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA](Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA)<br>
++[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES)<br>
++[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_MANTENIMIENTO](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_MANTENIMIENTO)<br>
++[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_APLICACIONES](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_APLICACIONES)<br>
++[Auditoría_Informática_Un_enfoque_práctico_de_calidad](Auditoría_Informática_Un_enfoque_práctico_de_calidad)<br>
++[Auditoría_Informática_Un_enfoque_práctico_CICLO_DE_VIDA_DEL_DESARROLLO_DEL_SOFTWARE](Auditoría_Informática_Un_enfoque_práctico_CICLO_DE_VIDA_DEL_DESARROLLO_DEL_SOFTWARE)<br>
++[Auditoria_informática_un_enfoque_práctico_2](Auditoria_informática_un_enfoque_práctico_2)<br>
++[Criptografia_seguridad_en_computadoras](Criptografia_seguridad_en_computadoras)<br>
++[Rol_Del_auditor_principios_eticos](Rol_Del_auditor_principios_eticos)<br>
++[]()<br>
++[]()<br>
++[]()<br>
++[]()<br>
+
 
 
 
