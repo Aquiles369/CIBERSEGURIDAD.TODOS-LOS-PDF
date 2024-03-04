@@ -1,0 +1,44 @@
+Aprender  haking web:
+
+
+
+	Paginas web: 
+		https://application.security/free/owasp-top-10
+		https://portswigger.net/web-security/all-materials
+		https://portswigger.net/research/archive
+		https://www.hackplayers.com/2017/05/pentesterlab-web-for-pentester-2-auth.html
+		https://www.hackplayers.com/2017/05/pentesterlab-web-for-pentester-1-auth.html
+		https://www.vulnhub.com/
+		https://tryhackme.com/
+		https://www.hackthebox.eu/
+		https://overthewire.org/wargames/natas/
+		https://play.picoctf.org/practice?category=1&page=1
+		https://pentestmonkey-net.translate.goog/category/cheat-sheet?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+		https://www-joelonsoftware-com.translate.goog/archives/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+CHUELTA todo 	https://github-com.translate.goog/bl4de/dictionaries?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+otra chuletita  https://github-com.translate.goog/swisskyrepo/PayloadsAllTheThings?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+mas completa 
+rediciona chule https://github-com.translate.goog/cujanovic/Open-Redirect-Payloads?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+   
+ 	SiStemas opertaivos:
+		metaploitable 3
+		metaploitable 2
+		metapolitable 1
+		
+		Proyecto de directorio de aplicaciones web vulnerables de OWASP
+		mala tienda
+		Maldita aplicación web vulnerable
+		Mutilidae 1
+		Mutilidae 2
+		Banco de seguridad Stanford
+		Vicnum
+		WebCabra
+		WebGoat 
+		WebMaven (más conocido como Buggy Bank)
+
+		web_for_pentester 1
+		web_for_pentester 2
+
+		DVWA 
+
+		OWASP BROKEN WEB APPLICACION
