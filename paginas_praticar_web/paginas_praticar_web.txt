@@ -11,6 +11,7 @@ Aprender  haking web:
 		https://www.vulnhub.com/
 		https://tryhackme.com/
 		https://www.hackthebox.eu/
+		https://book.hacktricks.xyz/pentesting-web/file-upload
 		https://overthewire.org/wargames/natas/
 		https://play.picoctf.org/practice?category=1&page=1
 		https://pentestmonkey-net.translate.goog/category/cheat-sheet?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
