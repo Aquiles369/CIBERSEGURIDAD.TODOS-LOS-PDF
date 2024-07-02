@@ -67,6 +67,9 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[Metodologia_ruta_super_interesante_Mittre_attackme](Metodologia_ruta_super_interesante_Mittre_attackme)<br>
 +[TODOS_LOS_pdf_de_OWASP_CHULITA_RICA](TODOS_LOS_pdf_de_OWASP_CHULITA_RICA)<br>
 +[paginas_praticar_web hacking y imagenes ISO varias](paginas_praticar_web)<br>
++[OSINT_Framework](OSINT_Framework)<br>
+
+
 
 
 
