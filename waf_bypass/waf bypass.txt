@@ -1,0 +1,1 @@
+waf-bypass.com: ("Bypass DE DIFERENTES PROVEEDOR WAF TANTO DE GIT HUB https://github.com/waf-bypass-maker/waf-community-bypasses Y EXTENSION EN BURP SUITE https://github.com/assetnote/nowafpls")
