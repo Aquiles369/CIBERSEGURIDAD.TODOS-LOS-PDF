@@ -69,7 +69,7 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[paginas_praticar_web hacking y imagenes ISO varias](paginas_praticar_web)<br>
 +[OSINT_Framework chuleta rica mirar recomendado](OSINT_Framework)<br>
 +[hacktricks muy completo varios ataques web etc mirar obligatoriamente](hacktricks/hacktricks.txt)<br>
-
++[waf_bypass/wafbypass.txt](waf_bypass/wafbypass.txt)<br>
 
 
 
