@@ -1,0 +1,1 @@
+- IP rotativa: (Extension de ip rotativa, en  Burp Suite crear cuenta en aws )
