@@ -1,0 +1,1 @@
+https://book.hacktricks.xyz/v/es/pentesting-web/web-vulnerabilities-methodology
