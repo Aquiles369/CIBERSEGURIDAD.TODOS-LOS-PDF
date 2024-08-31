@@ -70,7 +70,7 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[OSINT_Framework chuleta rica mirar recomendado](OSINT_Framework)<br>
 +[hacktricks muy completo varios ataques web etc mirar obligatoriamente](hacktricks/hacktricks.txt)<br>
 +[waf_bypass/wafbypass.txt](waf_bypass/waf_bypass.txt)<br>
-
++[ip_rotativa/ip_rotativa.txt](ip_rotativa/ip_rotativa.txt)<br>
 
 
 
