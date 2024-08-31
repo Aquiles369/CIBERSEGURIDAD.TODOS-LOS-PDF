@@ -68,6 +68,8 @@ Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas
 +[TODOS_LOS_pdf_de_OWASP_CHULITA_RICA](TODOS_LOS_pdf_de_OWASP_CHULITA_RICA)<br>
 +[paginas_praticar_web hacking y imagenes ISO varias](paginas_praticar_web)<br>
 +[OSINT_Framework chuleta rica mirar recomendado](OSINT_Framework)<br>
++[hacktricks muy completo varios ataques web etc mirar obligatoriamente](hacktricks/hacktricks.txt)<br>
+
 
 
 
