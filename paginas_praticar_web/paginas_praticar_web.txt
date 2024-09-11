@@ -9,7 +9,10 @@ Aprender  haking web:
 		https://www.hackplayers.com/2017/05/pentesterlab-web-for-pentester-2-auth.html
 		https://www.hackplayers.com/2017/05/pentesterlab-web-for-pentester-1-auth.html
 		https://www.vulnhub.com/
+		https://www.hackmyvm.eu
 		https://tryhackme.com/
+		https://www.DockerLabs.com/
+		https://www.thehackerslabs.com/
 		https://www.hackthebox.eu/
 		https://book.hacktricks.xyz/pentesting-web/file-upload
 		https://overthewire.org/wargames/natas/
