@@ -11,17 +11,15 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxzaHVvYTBsd3h6YjExdnFjZ3AzM2J2a3Z1Mmpsb2dyd2k3MzgyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWSUJxUIPQaiudeyUn/giphy.gif" width = 75px>  </picture> Header·Vulnerabilidades — Excalibur
+ ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxzaHVvYTBsd3h6YjExdnFjZ3AzM2J2a3Z1Mmpsb2dyd2k3MzgyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWSUJxUIPQaiudeyUn/giphy.gif" width = 75px>  </picture> Ciberseguridad todos los pdf
 
 <br>
 
- **Visor/gestor local con tablas, buscador y notas para mapear vulnerabilidades ↔ encabezados HTTP.
-100% offline (HTML): filtra tu checklist de findings por Cliente, Servidor y Otras vulnerabilidades (Open Redirect, CORS, CSRF, XSS, SSRF, SQLi, XXE, WebSockets, CSP, cookies, proxy bypass, etc.), mostrando el header relacionado y un resumen táctico,<a href="https://youtu.be/y-m5iAHW3wI" target="_blank" rel="noopener">demo de la tool Youtube</a>.** 
+ **Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas , Buenas praticas ,  OWASP todas las versiones traducidos al español: Entre otros .</a>.** 
 <br><br> 
 
 
-- :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
-Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas , Buenas praticas ,  OWASP todas las versiones traducidos al español: Entre otros .<br>
+- :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:<br>
 +["CIBERSEGURIDAD TODOS LOS PDF"](README.md)<br>
 +[Saludos al Resumen_personal_de_OSSTMM_V3_ES](OSSTMM_V3_es)<br>
 +[Uniendo al gobierno](Uniendo_al_Gobierno)<br>
