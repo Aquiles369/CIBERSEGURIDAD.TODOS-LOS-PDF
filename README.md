@@ -11,7 +11,7 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lsbGhoamp6a2lib2psYXhnNzVkdDd0c3hhZmJ5MWE2cnVhdmM0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T8xdbHJ9xbVlREPMW/giphy.gif" width = 75px>  </picture> Ciberseguridad todos los pdf
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhsZm5tdHB6amR1ZmhubXp1ZmRkajJqMnV1MmdyemxkZHg0dDNlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EYrVf1Fq6aKfm/giphy.gif" width = 75px>  </picture> Ciberseguridad todos los pdf
 
 <br>
 
@@ -21,7 +21,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNudmYweGRzNGtwNDljMTNvbndkbDYzenh5dXJsN210a29vdXBuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wVxnp09GvIc2U7wJj/giphy.gif" width = 75px>  </picture> - :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlyNGU0enl6MnVrdDQ0YjJ5eG40cWU5NmllNWd6cHkwN3ljMTQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EJriLNRrcvQVW/giphy.gif" width = 75px>  </picture> - :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__
  <br>
 
 +[Introduccion_a_la_Ciberseguridad](Introduccion_a_la_ciberseguridad)<br>
@@ -37,9 +37,12 @@
 +[Hacia_una_reflexión_histórica_de_las_TIC](Hacia_una_reflexión_histórica_de_las_TIC)<br>
 +[documento_ seguridad redes_sociales_baja](documento_seguridad_redes_sociales_baja)<br>
 +[Evolucion de como fue el inicio de las _Web ](Evolucion_Web)<br>
-+[Tecnologías_de_la_Wep basico](Tecnologías_de_la_Wep)<br><br><br>
++[Tecnologías_de_la_Wep basico](Tecnologías_de_la_Wep)<br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQyaHZ3c2xqbzR4Z3hqaW5ybWsyMXlkMnRxMWJldnc5cGtrZmRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NyMaiJVuPmPKcYbbKd/giphy.gif" width = 75px>  </picture> Redes y protocolos <br><br>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+<br>
+
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRwMWxoNXppc2dpYXc5aW85NHJ1bjhwOGsydHRiY2FsczhoOW5vNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XbZ1FZ4xtzDKE/giphy.gif" width = 75px>  </picture> Redes y protocolos <br><br>
 
 +[Redes_de_computadoras](Redes_de_computadoras)<br>
 +[Redes_diseño_actualización_y_reparación_Pag_28__123](Redes_diseño_actualización_y_reparación_Pag_28__123)<br>
