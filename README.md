@@ -62,7 +62,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5OWFoemxub2podnQ0bng0ZXhmbm1iMW1saXFpajU3dHUxdzdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tydpiqmhbBFuM/giphy.gif" width = 75px>  </picture> Metodologías y estándares <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQ5cDBrdWJ5NGM3MXNwNDhjeDNxYTNkcjNremw5M240MXk5eDZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DGaZTLF390Z0s/giphy.gif" width = 75px>  </picture> Metodologías y estándares <br><br>
 
 +[Saludos al Resumen_personal_de_OSSTMM_V3_ES](OSSTMM_V3_es)<br>
 +[OSSTMM_es_2_1](OSSTMM_es_2_1)<br>
@@ -73,7 +73,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZwdjJubnpramhvbmUzeGhyczZjczdlMnlmcWJyOTNjeDRveW1waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n8Ax3aMOsBX32/giphy.gif" width = 75px>  </picture> OWASP y auditorías <br><br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1bmFpMnJzcHJuMzJkZ2Y1OHl5d3cxeDU1emRzOGJuMTR5d3kxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QfvoEfKgqjyTu/giphy.gif" width = 75px>  </picture> OWASP y auditorías <br><br>
 
 +[OWASP_v4_TODO_traducido_al_ESPAÑOL](OWASP_v4_TODO_traducido_al_ESPAÑOL)<br>
 +[Guía_de_pruebas_de_OWASP_ver_3_0](Guía_de_pruebas_de_OWASP_ver_3_0)<br>
@@ -90,7 +90,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hxNHF4ZDV6eXY1c2oxZWgzMGFocWlvazJyM3cwaWR3MzE3MW5vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DBfgKX9yjSKSQ/giphy.gif" width = 75px>  </picture> Herramientas y OSINT <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc2NDZwdDVjb2ZjdmZxazJ0YWs5dGJqNTZ2NDQxeDVxMDhqZnhnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A5M0iKWg8bxwk/giphy.gif" width = 75px>  </picture> Herramientas y OSINT <br><br>
 
 +[OSINT_Framework chuleta rica mirar recomendado](OSINT_Framework)<br>
 +[hacktricks muy completo varios ataques web etc mirar obligatoriamente](hacktricks/hacktricks.txt)<br>
