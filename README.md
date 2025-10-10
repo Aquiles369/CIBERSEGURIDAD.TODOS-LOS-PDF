@@ -20,8 +20,8 @@
 
 
 - :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
-+["CIBERSEGURIDAD TODOS LOS PDF"](README.md)<br>
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNudmYweGRzNGtwNDljMTNvbndkbDYzenh5dXJsN210a29vdXBuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wVxnp09GvIc2U7wJj/giphy.gif" width = 75px>  </picture> Fundamentos y conceptos
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNudmYweGRzNGtwNDljMTNvbndkbDYzenh5dXJsN210a29vdXBuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wVxnp09GvIc2U7wJj/giphy.gif" width = 75px>  </picture> Fundamentos y conceptos <br><br>
+
 +[Introduccion_a_la_Ciberseguridad](Introduccion_a_la_ciberseguridad)<br>
 +[concepto_de_ciberseguridad_basicos](concepto_de_ciberseguridad_basicos)<br>
 +[Ser_Digital](Ser_Digital)<br>
@@ -37,7 +37,7 @@
 +[Evolucion de como fue el inicio de las _Web ](Evolucion_Web)<br>
 +[Tecnologías_de_la_Wep basico](Tecnologías_de_la_Wep)<br><br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQyaHZ3c2xqbzR4Z3hqaW5ybWsyMXlkMnRxMWJldnc5cGtrZmRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NyMaiJVuPmPKcYbbKd/giphy.gif" width = 75px>  </picture> Redes y protocolos <br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQyaHZ3c2xqbzR4Z3hqaW5ybWsyMXlkMnRxMWJldnc5cGtrZmRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NyMaiJVuPmPKcYbbKd/giphy.gif" width = 75px>  </picture> Redes y protocolos <br><br>
 
 +[Redes_de_computadoras](Redes_de_computadoras)<br>
 +[Redes_diseño_actualización_y_reparación_Pag_28__123](Redes_diseño_actualización_y_reparación_Pag_28__123)<br>
@@ -54,7 +54,7 @@
 +[Tecnologia_de_la_comunicacion](Tecnologia_de_la_comunicacion)<br><br><br>
 
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5OWFoemxub2podnQ0bng0ZXhmbm1iMW1saXFpajU3dHUxdzdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tydpiqmhbBFuM/giphy.gif" width = 75px>  </picture> Metodologías y estándares <br>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5OWFoemxub2podnQ0bng0ZXhmbm1iMW1saXFpajU3dHUxdzdtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tydpiqmhbBFuM/giphy.gif" width = 75px>  </picture> Metodologías y estándares <br><br>
 
 +[Saludos al Resumen_personal_de_OSSTMM_V3_ES](OSSTMM_V3_es)<br>
 +[OSSTMM_es_2_1](OSSTMM_es_2_1)<br>
@@ -63,7 +63,7 @@
 +[Metodologia_ruta_super_interesante_Mittre_attackme](Metodologia_ruta_super_interesante_Mittre_attackme)<br><br><br>
 
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZwdjJubnpramhvbmUzeGhyczZjczdlMnlmcWJyOTNjeDRveW1waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n8Ax3aMOsBX32/giphy.gif" width = 75px>  </picture> OWASP y auditorías <br>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZwdjJubnpramhvbmUzeGhyczZjczdlMnlmcWJyOTNjeDRveW1waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n8Ax3aMOsBX32/giphy.gif" width = 75px>  </picture> OWASP y auditorías <br><br>
 
 +[OWASP_v4_TODO_traducido_al_ESPAÑOL](OWASP_v4_TODO_traducido_al_ESPAÑOL)<br>
 +[Guía_de_pruebas_de_OWASP_ver_3_0](Guía_de_pruebas_de_OWASP_ver_3_0)<br>
@@ -78,7 +78,7 @@
 +[Ponencia_tipos_de_ataques_y_de_intrusos_en_las_redes_informaticas](Ponencia_tipos_de_ataques_y_de_intrusos_en_las_redes_informaticas)<br><br><br>
 
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hxNHF4ZDV6eXY1c2oxZWgzMGFocWlvazJyM3cwaWR3MzE3MW5vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DBfgKX9yjSKSQ/giphy.gif" width = 75px>  </picture> Herramientas y OSINT <br>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hxNHF4ZDV6eXY1c2oxZWgzMGFocWlvazJyM3cwaWR3MzE3MW5vayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DBfgKX9yjSKSQ/giphy.gif" width = 75px>  </picture> Herramientas y OSINT <br><br>
 
 +[OSINT_Framework chuleta rica mirar recomendado](OSINT_Framework)<br>
 +[hacktricks muy completo varios ataques web etc mirar obligatoriamente](hacktricks/hacktricks.txt)<br>
@@ -88,7 +88,7 @@
 
 
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF0OGJ4czNrYmRjamZhNTBpYTFlaDltNGc3aXMyMHF1aDJrZW03eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6RsYcS66Iso0/giphy.gif" width = 75px>  </picture> Auditorías, criptografía y rol profesional <br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF0OGJ4czNrYmRjamZhNTBpYTFlaDltNGc3aXMyMHF1aDJrZW03eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6RsYcS66Iso0/giphy.gif" width = 75px>  </picture> Auditorías, criptografía y rol profesional <br><br>
 
 
 +[Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA](Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA)<br>
@@ -102,7 +102,7 @@
 +[Rol_Del_auditor_principios_eticos](Rol_Del_auditor_principios_eticos)<br><br><br>
 
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJvMWRtNjU3OGZ6OHBpeXZzczBkMnIwcWtza2liZXkzZHhsYWVubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NDqBIAjtA1Z72/giphy.gif" width = 75px>  </picture> Malware e incidentes <br>
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJvMWRtNjU3OGZ6OHBpeXZzczBkMnIwcWtza2liZXkzZHhsYWVubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NDqBIAjtA1Z72/giphy.gif" width = 75px>  </picture> Malware e incidentes <br><br>
  
 +[Tacticas_de_Malware](Tacticas_de_Malware)<br>
 +[Haking_Cero](Haking_Cero)<br>
@@ -110,7 +110,7 @@
 +[Gestión_de_incidentes_de_seguridad_informática_Parte_2](Gestión_de_incidentes_de_seguridad_informática_2)<br><br><br>
 
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl2eW9mbGIycG5za21ubWt5MzQzNmxqNTd5YTYwdnB6c3o5azdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPVxEmxYZmlMI/giphy.gif" width = 75px>  </picture> Laboratorios y práctica <br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl2eW9mbGIycG5za21ubWt5MzQzNmxqNTd5YTYwdnB6c3o5azdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPVxEmxYZmlMI/giphy.gif" width = 75px>  </picture> Laboratorios y práctica <br><br>
 
 +[paginas_praticar_web](paginas_praticar_web)<br>
 +[paginas_praticar_web hacking y imagenes ISO varias](paginas_praticar_web)<br>
