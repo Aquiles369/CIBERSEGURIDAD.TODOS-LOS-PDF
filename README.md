@@ -19,8 +19,8 @@
 <br>
 
 
-- :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNudmYweGRzNGtwNDljMTNvbndkbDYzenh5dXJsN210a29vdXBuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wVxnp09GvIc2U7wJj/giphy.gif" width = 75px>  </picture> Fundamentos y conceptos <br><br>
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNudmYweGRzNGtwNDljMTNvbndkbDYzenh5dXJsN210a29vdXBuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wVxnp09GvIc2U7wJj/giphy.gif" width = 75px>  </picture> - :file_folder:__CIBERSEGURIDAD_TODOS_LOS_PDF__:
+ <br><br>
 
 +[Introduccion_a_la_Ciberseguridad](Introduccion_a_la_ciberseguridad)<br>
 +[concepto_de_ciberseguridad_basicos](concepto_de_ciberseguridad_basicos)<br>
