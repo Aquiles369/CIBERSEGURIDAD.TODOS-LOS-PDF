@@ -15,7 +15,7 @@
 
 <br>
 
- **Son varios pdf relacionado con las Auditoria Fisicas, Interna , Redes , SiStemas , Buenas praticas ,  OWASP todas las versiones traducidos al español: Entre otros.<a href="https://www.youtube.com/watch?v=8RLyEk5_iuY" target="_blank" rel="noopener">demo Youtube</a>.** 
+ **"Son varios archivos PDF relacionados con auditorías físicas, internas, de redes y de sistemas. Incluyen buenas prácticas y todas las versiones de OWASP traducidas al español."<a href="https://www.youtube.com/watch?v=8RLyEk5_iuY" target="_blank" rel="noopener">demo Youtube</a>.** 
 <br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
