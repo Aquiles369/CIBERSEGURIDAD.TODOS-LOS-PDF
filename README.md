@@ -92,6 +92,7 @@
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc2NDZwdDVjb2ZjdmZxazJ0YWs5dGJqNTZ2NDQxeDVxMDhqZnhnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A5M0iKWg8bxwk/giphy.gif" width = 75px>  </picture> Herramientas y OSINT <br><br>
 
++[Dark-Moon plataforma open source de pentesting autónomo con IA, self-hosted y con servidor MCP](https://github.com/ASCIT31/Dark-Moon)<br>
 +[OSINT_Framework chuleta rica mirar recomendado](OSINT_Framework)<br>
 +[hacktricks muy completo varios ataques web etc mirar obligatoriamente](hacktricks/hacktricks.txt)<br>
 +[waf_bypass/wafbypass.txt](waf_bypass/waf_bypass.txt)<br>
